@@ -308,25 +308,7 @@ After completing this project, you will understand:
 
 ---
 
-# ▶️ How to Run the Project
 
-## Step 1: Clone Repository
-
-```bash
-git clone <your-github-repository-link>
-```
-
-## Step 2: Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-## Step 3: Run Jupyter Notebook
-
-```bash
-jupyter notebook
-```
 
 
 It demonstrates:
